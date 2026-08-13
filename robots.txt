@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-7ao74u.abztrainee.com/sitemap.xml
